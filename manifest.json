@@ -13,14 +13,14 @@
       "matches": ["https://ultraman-shot.cc/"]
     }
   ],
-  "description": "Use anime screenshots to search the scene it is taken from.",
+  "description": "Use ultraman screenshots to search the scene it is taken from.",
   "icons": {
     "128": "icon128.png",
     "16": "icon16.png",
     "48": "icon48.png"
   },
   "manifest_version": 2,
-  "name": "Search Anime by Screenshot",
+  "name": "Search Ultraman by Screenshot",
   "permissions": ["contextMenus", "activeTab", "tabs", "http://*/*", "https://*/*"],
   "version": "4.0.2"
 }
