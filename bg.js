@@ -4,7 +4,7 @@ if (!self.browser && self.chrome) {
 
 browser.contextMenus.create({
   id: "search-on-trace.moe",
-  title: "Search on trace.moe",
+  title: "Search on ultraman-shot.cc",
   contexts: ["image", "video"],
 });
 
@@ -25,7 +25,7 @@ browser.runtime.onMessage.addListener(handleMessage);
 var search = function (dataURL) {
   imageDataURL = dataURL;
   browser.tabs.create({
-    url: "https://trace.moe",
+    url: "https://ultraman-shot.cc",
   });
 };
 

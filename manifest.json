@@ -1,5 +1,5 @@
 {
-  "author": "soruly",
+  "author": "soruly & Leslie Wong",
   "background": {
     "page": "background.html"
   },
@@ -10,7 +10,7 @@
     },
     {
       "js": ["trace.moe.js"],
-      "matches": ["https://trace.moe/"]
+      "matches": ["https://ultraman-shot.cc/"]
     }
   ],
   "description": "Use anime screenshots to search the scene it is taken from.",
